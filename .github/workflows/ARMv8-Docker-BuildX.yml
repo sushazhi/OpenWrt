@@ -13,7 +13,7 @@ env:
   CLASH_KERNEL: arm64
   DOCKER_BUILD: buildImageX.sh
   DOCKER_IMAGE: summary/openwrt-aarch64
-  TAG: mini
+#  TAG: mini
   TZ: Asia/Shanghai
 
 jobs:
